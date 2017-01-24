@@ -2,6 +2,7 @@
 Web for Hexatown
 (https://hexatown.github.io)
 
-## Editor tools
+## Tools
 
-https://jekyllrb.com/docs/windows/#installation
+http://community-downloads.quest.com/powergui/Release/3.8/PowerGUI.3.8.0.129.msi
+
