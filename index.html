@@ -1,11 +1,189 @@
-<html>
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="">
+<!--<![endif]-->
 
 <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Hexatown</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+    <link rel="stylesheet" href="css/normalize.min.css">
+    <link rel="stylesheet" href="css/main.css">
+
+    <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    <!-- Auth0 lock script -->
+    <script src="https://cdn.auth0.com/js/lock/10.8/lock.min.js"></script>
 </head>
 
 <body>
-    <h1>Welcome to Hexatown</h1>
-    <p></p>
+    <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+    <div class="header-container">
+        <header class="wrapper clearfix">
+            <h1 class="title">Hexatown</h1>
+            <nav>
+                <ul>
+                    <!--<li><a href="#">Benefits</a></li>-->
+                    <li><a href="https://blog.hexatown.com">Blog</a></li>
+                    <li><a href="http://365admin.net">365 Admin</a></li>
+                    <li><a href="#" id="login">Login</a></li>
+                </ul>
+            </nav>
+        </header>
+    </div>
+
+    <div class="main-container">
+        <div class="main wrapper clearfix">
+
+            <article>
+                <header>
+                    <h1>Greetings for Mayor Hexa</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis lectus quis sem lacinia nonummy. Proin mollis lorem non dolor. In hac habitasse platea dictumst. Nulla ultrices odio. Donec augue. Phasellus dui. Maecenas facilisis
+                        nisl vitae nibh.</p>
+                </header>
+                <section>
+                    <h2>Learn</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis lectus quis sem lacinia nonummy. Proin mollis lorem non dolor. In hac habitasse platea dictumst. Nulla ultrices odio. Donec augue. Phasellus dui. Maecenas facilisis
+                        nisl vitae nibh.</p>
+                </section>
+                <section>
+                    <h2>Collaborate</h2>
+                    <p>So lets work to getter and share our own best practices within areas as
+                        <ul>
+                            <li>Process Documentation</li>
+                            <li>Test cases</li>
+                            <li>Automation</li>
+                        </ul>
+
+                    </p>
+                </section>
+                <section>
+                    <h2>We are more than a network</h2>
+                    <p>We are differents from other knowledge sharing networks as we in 365admin.net focus on actively building and maintaining our own environment </p>
+                </section>
+
+            </article>
+
+            <aside>
+                <h3>Current population</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis lectus quis sem lacinia nonummy. Proin mollis lorem non dolor. In hac habitasse platea dictumst. Nulla ultrices odio. Donec augue. Phasellus dui. Maecenas facilisis nisl
+                    vitae nibh.</p>
+
+            </aside>
+
+        </div>
+        <!-- #main -->
+    </div>
+    <!-- #main-container -->
+
+    <div class="footer-container">
+        <footer class="wrapper">
+            <h3>Contact</h3>
+            <p>365admin.net IVS - <a class="link" href="https://datacvr.virk.dk/data/visenhed?language=en-gb&enhedstype=virksomhed&id=38266969&soeg=365admin&type=Alle" title="CVR is the Danish state's master register of information about businesses. Here, you can search businesses and find their CVR numbers, addresses, business type, etc. Navigation and headings are in English, but you will meet a lot of Danish content. Read about functions and limitations in the English version of CVR.">DK38266969</a></p>
+        </footer>
+    </div>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script>
+        window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+        var lock = new Auth0Lock('LialPAksUWmKcrxybkClhJpkOWugXHWO', '365admin.eu.auth0.com');
+
+        var btn_login = document.getElementById('login');
+
+        btn_login.addEventListener('click', function() {
+            lock.show();
+        });
+
+        lock.on("authenticated", function(authResult) {
+            //debugger
+            lock.getProfile(authResult.idToken, function(error, profile) {
+                if (error) {
+                    // Handle error
+                    return;
+                }
+                localStorage.setItem('id_token', authResult.idToken);
+                // Display user information
+                window.Intercom("boot", {
+                    app_id: "l7f8b3hw",
+                    name: profile.name, // Full name
+                    email: profile.email, // Email address
+                    created_at: profile.created_at // Signup date as a Unix timestamp
+                });
+
+                //show_profile_info(profile);
+            });
+        });
+    </script>
+
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+
+
+    <script>
+        (function(b, o, i, l, e, r) {
+            b.GoogleAnalyticsObject = l;
+            b[l] || (b[l] =
+                function() {
+                    (b[l].q = b[l].q || []).push(arguments)
+                });
+            b[l].l = +new Date;
+            e = o.createElement(i);
+            r = o.getElementsByTagName(i)[0];
+            e.src = '//www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e, r)
+        }(window, document, 'script', 'ga'));
+        ga('create', 'UA-89167457-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <script>
+        window.intercomSettings = {
+            app_id: "l7f8b3hw"
+        };
+    </script>
+    <script>
+        (function() {
+            var w = window;
+            var ic = w.Intercom;
+            if (typeof ic === "function") {
+                ic('reattach_activator');
+                ic('update', intercomSettings);
+            } else {
+                var d = document;
+                var i = function() {
+                    i.c(arguments)
+                };
+                i.q = [];
+                i.c = function(args) {
+                    i.q.push(args)
+                };
+                w.Intercom = i;
+
+                function l() {
+                    var s = d.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = 'https://widget.intercom.io/widget/l7f8b3hw';
+                    var x = d.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                }
+                if (w.attachEvent) {
+                    w.attachEvent('onload', l);
+                } else {
+                    w.addEventListener('load', l, false);
+                }
+            }
+        })()
+    </script>
 </body>
 
 </html>
