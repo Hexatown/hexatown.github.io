@@ -15,9 +15,9 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="hexatownlogo.svg"
-   inkscape:export-filename="E:\365admin\hexatown.github.io\resources\icon.png"
-   inkscape:export-xdpi="7.9842839"
-   inkscape:export-ydpi="7.9842839"
+   inkscape:export-filename="E:\365admin\hexatown.github.io\resources\splash.png"
+   inkscape:export-xdpi="34.91"
+   inkscape:export-ydpi="34.91"
    inkscape:version="0.92.0 r15299">
   <defs
      id="defs2" />
@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.044194174"
-     inkscape:cx="4634.8011"
+     inkscape:cx="-988.112"
      inkscape:cy="-1658.8721"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,12 +56,15 @@
      id="layer2"
      inkscape:label="baggrund">
     <rect
-       style="fill:#cccccc;stroke-width:0.64943182"
+       style="fill:none;stroke-width:0.64943182"
        id="rect4583"
        width="1939.7354"
        height="1939.7354"
        x="-947.24939"
-       y="-623.75293" />
+       y="-623.75293"
+       inkscape:export-filename="E:\365admin\hexatown.github.io\resources\splash.png"
+       inkscape:export-xdpi="28.91"
+       inkscape:export-ydpi="28.91" />
   </g>
   <g
      inkscape:label="Layer 1"
@@ -186,5 +189,9 @@
        height="1987.63"
        x="-971.19672"
        y="-647.70026" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="splash" />
   </g>
 </svg>

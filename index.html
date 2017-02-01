@@ -19,7 +19,7 @@
 
     <link rel="stylesheet" href="css/normalize.min.css">
     <link rel="stylesheet" href="css/main.css">
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.1/angular.min.js" />
     <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     <!-- Auth0 lock script -->
     <script src="https://cdn.auth0.com/js/lock/10.8/lock.min.js"></script>
@@ -78,7 +78,7 @@
     <!-- end Mixpanel -->
 </head>
 
-<body>
+<body ng-app="hexatownApp" ng-controller="mainCtrl">
     <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
@@ -133,7 +133,7 @@
                 <h3>Current population</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis lectus quis sem lacinia nonummy. Proin mollis lorem non dolor. In hac habitasse platea dictumst. Nulla ultrices odio. Donec augue. Phasellus dui. Maecenas facilisis nisl
                     vitae nibh.</p>
-
+                {{feeds}}
             </aside>
 
         </div>

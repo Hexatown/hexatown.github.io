@@ -34,9 +34,9 @@
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="2400"
-     inkscape:window-height="1271"
-     inkscape:window-x="2391"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      showguides="true"
@@ -74,13 +74,19 @@
        width="39.151459"
        height="39.151459"
        x="17.769964"
-       y="23.766426" />
+       y="23.766426"
+       inkscape:export-xdpi="20.760405"
+       inkscape:export-ydpi="20.760405"
+       inkscape:export-filename="E:\365admin\hexatown.github.io\resources\rect4583.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:0.90922517px;line-height:0.56826568px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02273063"
        x="-221.81616"
        y="-151.63141"
-       id="text37"><tspan
+       id="text37"
+       inkscape:export-xdpi="20.760405"
+       inkscape:export-ydpi="20.760405"
+       inkscape:export-filename="E:\365admin\hexatown.github.io\resources\rect4583.png"><tspan
          sodipodi:role="line"
          id="tspan35"
          x="-221.81616"
@@ -90,7 +96,10 @@
        xml:space="preserve"
        id="flowRoot43"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ececec;fill-opacity:1;stroke:none;"
-       transform="matrix(1.1348657,0,0,1.1348657,-205.46176,-118.05426)"><flowRegion
+       transform="matrix(1.1348657,0,0,1.1348657,-205.46176,-118.05426)"
+       inkscape:export-xdpi="20.760405"
+       inkscape:export-ydpi="20.760405"
+       inkscape:export-filename="E:\365admin\hexatown.github.io\resources\rect4583.png"><flowRegion
          id="flowRegion45"
          style="fill:#ececec;"><rect
            id="rect47"
@@ -107,7 +116,9 @@
      id="layer1">
     <g
        id="g4593"
-       transform="matrix(0.02018392,0,0,0.02018392,35.008977,37.292752)">
+       transform="matrix(0.02018392,0,0,0.02018392,35.008977,37.292752)"
+       inkscape:export-xdpi="81.040642"
+       inkscape:export-ydpi="81.040642">
       <path
          transform="matrix(0,-1.000815,1.000815,0,-367.18803,21.193057)"
          inkscape:transform-center-x="1.0057397e-005"
@@ -223,6 +234,8 @@
        width="40.11816"
        height="40.11816"
        x="17.286613"
-       y="23.283075" />
+       y="23.283075"
+       inkscape:export-xdpi="81.040642"
+       inkscape:export-ydpi="81.040642" />
   </g>
 </svg>
