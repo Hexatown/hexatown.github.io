@@ -2,9 +2,13 @@ var App = angular.module("hexatownApp", []);
 
 
 App.controller("mainCtrl", ['$scope', 'FeedService', function($scope, Feed) {
-    $scope.feeds = 123;
-    Feed.parseFeed().then(function(res) {
-        $scope.feeds = res; //.data.responseData.feed.entries;
+    $scope.feeds = "";
+    Feed.parseFeed().then(function(rss) {
+        if (rss.status === 200) {
+
+            $scope.feeds = rss.data.body.rss; //.data.responseData.feed.entries;
+        }
+
     });
 
 }]);
