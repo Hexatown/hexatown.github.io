@@ -15,12 +15,24 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="hexatownlogo-color.svg"
-   inkscape:export-filename="E:\365admin\hexatown.github.io\resources\splash.png"
+   inkscape:export-filename="E:\365admin\hexatown.github.io\resources\icon.png"
    inkscape:export-xdpi="34.91"
    inkscape:export-ydpi="34.91"
-   inkscape:version="0.92.0 r15299">
+   inkscape:version="0.92.0 r15299"
+   enable-background="new">
   <defs
-     id="defs2" />
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2015">
+      <feBlend
+         inkscape:collect="always"
+         mode="color-burn"
+         in2="BackgroundImage"
+         id="feBlend2017" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -29,14 +41,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.044194174"
-     inkscape:cx="-6611.0251"
+     inkscape:cx="-10423.745"
      inkscape:cy="-1658.8721"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
+     inkscape:window-width="2400"
+     inkscape:window-height="1421"
+     inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1" />
   <metadata
@@ -47,14 +59,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="baggrund">
+     inkscape:label="baggrund"
+     style="filter:url(#filter2015)">
     <rect
        style="fill:none;stroke-width:0.64943182"
        id="rect4583"
@@ -65,6 +78,13 @@
        inkscape:export-filename="E:\365admin\hexatown.github.io\resources\splash.png"
        inkscape:export-xdpi="28.91"
        inkscape:export-ydpi="28.91" />
+    <rect
+       style="opacity:0.95;fill:#ffffff;stroke-width:0.35707992;fill-opacity:1"
+       id="rect4579"
+       width="1987.63"
+       height="1987.63"
+       x="-971.19672"
+       y="-647.70026" />
   </g>
   <g
      inkscape:label="Layer 1"
@@ -179,13 +199,6 @@
        sodipodi:sides="6"
        id="path3711"
        sodipodi:type="star" />
-    <rect
-       style="fill:none;stroke-width:0.35707992"
-       id="rect4579"
-       width="1987.63"
-       height="1987.63"
-       x="-971.19672"
-       y="-647.70026" />
     <g
        inkscape:groupmode="layer"
        id="layer3"
