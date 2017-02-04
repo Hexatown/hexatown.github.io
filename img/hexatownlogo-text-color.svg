@@ -92,7 +92,9 @@
     <g
        style="fill:#ffffff;fill-opacity:0;filter:url(#filter2015)"
        id="g6242"
-       transform="matrix(0.0254769,0,0,0.0254769,55.396422,49.09085)">
+       transform="matrix(0.0254769,0,0,0.0254769,55.396422,49.09085)"
+       inkscape:export-xdpi="856.05249"
+       inkscape:export-ydpi="856.05249">
       <rect
          style="fill:#ffffff;fill-opacity:0;stroke-width:0.64943182"
          id="rect4583"
@@ -129,8 +131,8 @@
        sodipodi:sides="6"
        id="path3684"
        sodipodi:type="star"
-       inkscape:export-xdpi="19.587072"
-       inkscape:export-ydpi="19.587072" />
+       inkscape:export-xdpi="856.05249"
+       inkscape:export-ydpi="856.05249" />
     <path
        sodipodi:type="star"
        id="path3703"
@@ -149,8 +151,8 @@
        inkscape:transform-center-y="5.5852897e-006"
        inkscape:transform-center-x="1.0057397e-005"
        transform="matrix(0,-0.02549766,0.02549766,0,58.004913,50.923641)"
-       inkscape:export-xdpi="19.587072"
-       inkscape:export-ydpi="19.587072" />
+       inkscape:export-xdpi="856.05249"
+       inkscape:export-ydpi="856.05249" />
     <path
        transform="matrix(0,-0.02549766,0.02549766,0,65.077311,63.394815)"
        inkscape:transform-center-x="1.0057397e-005"
@@ -169,8 +171,8 @@
        sodipodi:sides="6"
        id="path3705"
        sodipodi:type="star"
-       inkscape:export-xdpi="19.587072"
-       inkscape:export-ydpi="19.587072" />
+       inkscape:export-xdpi="856.05249"
+       inkscape:export-ydpi="856.05249" />
     <path
        sodipodi:type="star"
        id="path3707"
@@ -189,8 +191,8 @@
        inkscape:transform-center-y="5.5852897e-006"
        inkscape:transform-center-x="1.0057397e-005"
        transform="matrix(0,-0.02549766,0.02549766,0,36.404206,63.173392)"
-       inkscape:export-xdpi="19.587072"
-       inkscape:export-ydpi="19.587072" />
+       inkscape:export-xdpi="856.05249"
+       inkscape:export-ydpi="856.05249" />
     <path
        transform="matrix(0,-0.02549766,0.02549766,0,43.476603,75.644567)"
        inkscape:transform-center-x="1.0057397e-005"
@@ -209,8 +211,8 @@
        sodipodi:sides="6"
        id="path3709"
        sodipodi:type="star"
-       inkscape:export-xdpi="19.587072"
-       inkscape:export-ydpi="19.587072" />
+       inkscape:export-xdpi="856.05249"
+       inkscape:export-ydpi="856.05249" />
     <path
        sodipodi:type="star"
        id="path3711"
@@ -229,8 +231,8 @@
        inkscape:transform-center-y="5.5852897e-006"
        inkscape:transform-center-x="1.0057397e-005"
        transform="matrix(0,-0.02549766,0.02549766,0,57.813156,75.755277)"
-       inkscape:export-xdpi="19.587072"
-       inkscape:export-ydpi="19.587072" />
+       inkscape:export-xdpi="856.05249"
+       inkscape:export-ydpi="856.05249" />
   </g>
   <g
      style="display:inline"
@@ -240,8 +242,8 @@
     <flowRoot
        class="logoText"
        inkscape:export-filename="E:\365admin\hexatown.github.io\resources\rect4583.png"
-       inkscape:export-ydpi="19.587072"
-       inkscape:export-xdpi="19.587072"
+       inkscape:export-ydpi="856.05249"
+       inkscape:export-xdpi="856.05249"
        transform="matrix(1.1348657,0,0,1.1348657,-180.53349,-103.61126)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.95;fill:#ececec;fill-opacity:1;stroke:none"
        id="flowRoot43"
