@@ -70,21 +70,6 @@ body {
     ALL: Orange Theme
    =================== */
 
-.header-container {
-    border-bottom: 20px solid #e44d26;
-}
-
-.footer-container,
-.main aside {
-    border-top: 20px solid #e44d26;
-}
-
-.header-container,
-.footer-container,
-.main aside {
-    background: #577284;
-}
-
 .title {
     color: black;
 }
@@ -108,7 +93,22 @@ nav a {
     text-decoration: none;
     font-weight: bold;
     color: white;
-    background: #e44d26;
+    background: #39A845;
+}
+
+.header-container {
+    border-bottom: 20px solid #39A845;
+}
+
+.footer-container,
+.main aside {
+    border-top: 20px solid #39A845;
+}
+
+.header-container,
+.footer-container,
+.main aside {
+    background: #577284;
 }
 
 nav a:hover,
@@ -208,6 +208,10 @@ nav a:hover {
     /* ====================
     WIDE: CSS3 Effects
    ==================== */
+    .logo {
+        position: absolute;
+        top: 10px
+    }
     .header-container,
     .main aside {
         -webkit-box-shadow: 0 5px 10px #aaa;
