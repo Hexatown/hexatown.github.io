@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: 365admin/docs
+  github: hexatown/hexatown.github.io
   instagram:
   linkedin:
   pinterest:
@@ -41,13 +41,13 @@ google_analytics: UA-89167457-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://365admin.net
+url: http://hexatown.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/docs"
+# baseurl: "/docs"
 
 #
 # !! You don't need to change any of the configuration flags below !!
