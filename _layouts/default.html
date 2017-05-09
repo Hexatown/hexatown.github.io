@@ -25,11 +25,7 @@
 </head>
 
 <body>
-    <div class="wrapper-masthead">
-        <div class="container">
-            <header class="masthead clearfix">
-                
-
+<header>
                 <div class="site-info">
                     <h1 class="site-name"><img src="{{ site.baseurl }}/img/icon-small.png" /><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
                     <p class="site-description">{{ site.description }}</p>
@@ -39,13 +35,17 @@
                     
                     <a href="http://365admin.net">About</a>
                 </nav>
-            </header>
-        </div>
-    </div>
 
-    <div id="main" role="main" class="container">
+</header>
+
+
+    
+
+  <main class="ms-Grid">
+    <div class="ms-Grid-row">
+      <div class="ms-Grid-col ms-sm10 ms-smPush1 ms-smPull1">
         {{ content }}
-    </div>
+      </div></div></main>
 
     <div class="wrapper-footer">
         <div class="container">
