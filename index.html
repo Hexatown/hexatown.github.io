@@ -21,8 +21,6 @@
     <link rel="stylesheet" href="css/main.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.1/angular.min.js" />
     <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
-    <!-- Auth0 lock script -->
-    <script src="https://cdn.auth0.com/js/lock/10.8/lock.min.js"></script>
     <!-- start Mixpanel -->
     <script type="text/javascript">
         (function(e, a) {
@@ -131,8 +129,7 @@
                 <h3>Greeting from the Mayor</h3>
                 <p>HI, I'm Mayor in Hexatown. The town where Hexaheads meet, build and play around. We do not use model trains, but online services. </p>
                 <p>I you are interested, then call me using the Intercom. <img style="padding:10px;height:128px;width:auto" align="right" src="./img/hexaheads/mayor-with-hat.png">. </p>
-                <p>Another source is our blog, recent posts is:</p>
-                {{feeds.channel.title}}
+                
             </aside>
 
         </div>
@@ -150,39 +147,6 @@
     </div>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <script>
-        window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')
-
-        var lock = new Auth0Lock('LialPAksUWmKcrxybkClhJpkOWugXHWO', '365admin.eu.auth0.com');
-
-        var btn_login = document.getElementById('login');
-
-        btn_login.addEventListener('click', function() {
-            mixpanel.track("Login");
-            lock.show();
-        });
-
-        lock.on("authenticated", function(authResult) {
-            //debugger
-            lock.getProfile(authResult.idToken, function(error, profile) {
-                if (error) {
-                    // Handle error
-                    return;
-                }
-                localStorage.setItem('id_token', authResult.idToken);
-                // Display user information
-                window.Intercom("boot", {
-                    app_id: "l7f8b3hw",
-                    name: profile.name, // Full name
-                    email: profile.email, // Email address
-                    created_at: profile.created_at // Signup date as a Unix timestamp
-                });
-
-                //show_profile_info(profile);
-            });
-        });
-    </script>
-
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
 
