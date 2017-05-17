@@ -8,7 +8,7 @@ Have you ever enjoyed controlling the world? But what about controlling a scaled
 <img align="right" src="./img/www-egger-bahn.de-images-history-03-oldphoto.jpg" title="Photo © 2001 - 2017 by Textwerkstatt Ralph Stenzel. http://www.egger-bahn.de" />
 
 ## Collaborate
-Find it kind of hard to achieve the goal? So why not collaborate and share your own best practices within areas as
+Find it kind of hard to achieve the goal in just a slightly larger scale than here? So why not collaborate and share your own best practices within areas as
 
 - Process Documentation
 - Test cases
