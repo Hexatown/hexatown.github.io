@@ -14,5 +14,5 @@ Even in just a slightly larger scale than here? So why not collaborate and share
 - Automation scripts
 
 ## Join the Community
-If you are working with the technical part of administrating Office365 and Azure, and if you are working in the financial sector in Denmark your are qualified to (join)
+If you are working with the technical part of administrating Office365 and Azure, and if you are working in the financial sector in Denmark your are qualified to [join](join)
 
