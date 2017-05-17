@@ -1,6 +1,5 @@
 ---
-layout: post
-title: Domain restriction on SharePoint / OneDrive sharing
+Title: Domain restriction on SharePoint / OneDrive sharing
 ---
 
 The ability to restrict sharing to a list of whitelisted domains
