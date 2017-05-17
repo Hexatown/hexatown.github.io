@@ -2,7 +2,7 @@
 title: Hexatown -A living Community
 ---
 
-# Have you ever wanted to control the world? 
+## Have you ever wanted to control the world? 
 
 <img align="right" src="./img/www-egger-bahn.de-images-history-03-oldphoto.jpg" title="Photo © 2001 - 2017 by Textwerkstatt Ralph Stenzel. http://www.egger-bahn.de" />
 
