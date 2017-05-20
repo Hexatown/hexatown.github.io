@@ -14,7 +14,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg6358"
-   inkscape:version="0.92.0 r15299"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="hexahead.svg">
   <defs
      id="defs6352" />
@@ -25,18 +25,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="287.31861"
-     inkscape:cy="977.38506"
+     inkscape:zoom="5.6"
+     inkscape:cx="192.27627"
+     inkscape:cy="766.77298"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:object-paths="true"
      inkscape:snap-to-guides="false"
@@ -181,6 +181,123 @@
        inkscape:export-filename="E:\365admin\hexatown.github.io\img\hexaheads\mayor-512h.png"
        inkscape:export-xdpi="768.4126"
        inkscape:export-ydpi="768.4126" />
+    <path
+       sodipodi:type="star"
+       id="path3707-0-5-2"
+       sodipodi:sides="6"
+       sodipodi:cx="210.81628"
+       sodipodi:cy="205.19165"
+       sodipodi:r1="324.63599"
+       sodipodi:r2="281.14304"
+       sodipodi:arg1="1.0549197"
+       sodipodi:arg2="1.5785185"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 370.95843,487.57971 46.332124,485.07285 -113.81002,202.68479 50.674137,-77.19641 375.30044,-74.689547 535.44259,207.69851 Z"
+       style="display:inline;opacity:0.95;fill:#cc9f8a;fill-opacity:1;stroke-width:0.42786071"
+       inkscape:transform-center-y="5.5852897e-006"
+       inkscape:transform-center-x="1.0057397e-005"
+       transform="matrix(0,-0.02549766,0.02549766,0,60.994692,107.26822)"
+       inkscape:export-xdpi="856.05249"
+       inkscape:export-ydpi="856.05249"
+       inkscape:export-filename="C:\code\private\hexatown.github.io\img\hexaheads\redhat.png" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.29408619px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 66.795528,101.74519 c 0.953083,-0.89268 1.464554,-1.08791 3.076131,-1.09045"
+       id="path7096-9-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\code\private\hexatown.github.io\img\hexaheads\redhat.png"
+       inkscape:export-xdpi="856"
+       inkscape:export-ydpi="856" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.29408619px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 62.547403,100.72666 c 1.543671,-0.68008 2.244131,-0.30834 3.40686,1.10654"
+       id="path7096-93"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\code\private\hexatown.github.io\img\hexaheads\redhat.png"
+       inkscape:export-xdpi="856"
+       inkscape:export-ydpi="856" />
+    <path
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.27961144px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 63.095366,106.64589 5.415852,-1.53705 0.669167,1.60587 z"
+       id="path7014-2-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\code\private\hexatown.github.io\img\hexaheads\redhat.png"
+       inkscape:export-xdpi="856"
+       inkscape:export-ydpi="856" />
+    <ellipse
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+       id="path6977-5-9"
+       cx="64.101433"
+       cy="102.14853"
+       rx="1.3029389"
+       ry="1.2361215"
+       inkscape:export-filename="C:\code\private\hexatown.github.io\img\hexaheads\redhat.png"
+       inkscape:export-xdpi="856"
+       inkscape:export-ydpi="856" />
+    <ellipse
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+       id="path6977-2-1-5"
+       cx="68.405785"
+       cy="102.31557"
+       rx="1.3029389"
+       ry="1.2361215"
+       inkscape:export-filename="C:\code\private\hexatown.github.io\img\hexaheads\redhat.png"
+       inkscape:export-xdpi="856"
+       inkscape:export-ydpi="856" />
+    <ellipse
+       style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke-width:0.26458332"
+       id="path6997-7-6"
+       cx="64.235069"
+       cy="102.24875"
+       rx="0.50113034"
+       ry="0.46772167"
+       inkscape:export-filename="C:\code\private\hexatown.github.io\img\hexaheads\redhat.png"
+       inkscape:export-xdpi="856"
+       inkscape:export-ydpi="856" />
+    <ellipse
+       style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke-width:0.26458332"
+       id="path6997-4-5-0"
+       cx="68.539413"
+       cy="102.31557"
+       rx="0.50113034"
+       ry="0.46772167"
+       inkscape:export-filename="C:\code\private\hexatown.github.io\img\hexaheads\redhat.png"
+       inkscape:export-xdpi="856"
+       inkscape:export-ydpi="856" />
+    <path
+       style="display:inline;fill:#231f20;fill-opacity:1;stroke:none;stroke-width:0.37150005px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 62.374026,92.019765 -4.73589,5.49161 3.011388,1.807077 2.743525,-1.122879 1.332568,0.898302 3.527383,1.459745 1.019023,-2.470332 2.978681,0.898299 2.206254,-1.284159 -1.814323,-2.870479 -2.917055,-2.40628 -3.640539,-1.771246 z"
+       id="path7018-8-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-filename="C:\code\private\hexatown.github.io\img\hexaheads\redhat.png"
+       inkscape:export-xdpi="856"
+       inkscape:export-ydpi="856" />
+    <g
+       style="display:inline;fill:#ff0000"
+       id="g4545-8"
+       transform="matrix(1.0657291,0,0,1.2272421,34.016656,18.277213)"
+       inkscape:export-filename="C:\code\private\hexatown.github.io\img\hexaheads\redhat.png"
+       inkscape:export-xdpi="856"
+       inkscape:export-ydpi="856">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4541-4"
+         d="m 23.190381,62.441576 c 4.116439,-6.356681 8.462501,-8.024525 13.164532,-0.176603"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.31888255px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4528-8"
+         d="m 22.312806,62.198973 c -0.270817,0.954572 -0.567983,1.912342 0.17185,2.744259 h 15.525873 c 0.596681,-1.896305 0.05199,-2.061112 -0.110113,-2.806329 z"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.24017134px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
   </g>
   <g
      inkscape:label="Faces"
@@ -486,7 +603,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Hair"
-     style="display:none" />
+     style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer4"
