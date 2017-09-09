@@ -4,7 +4,7 @@ title: Working with PowerApps & Microsoft Flow !?
 
 ## Have you ever wanted to control the world? 
 
-<img align="right" src="./img/www-egger-bahn.de-images-history-03-oldphoto.jpg" title="Photo © 2001 - 2017 by Textwerkstatt Ralph Stenzel. http://www.egger-bahn.de" />
+<img align="right" src="./img/tiles/hexaheads.png" title="A collection of HexaHeads" />
 
 ## Found it kind of hard to achieve the goal?
 Even in just a slightly larger scale than here, like your companies suite of collaboration tools? Why not share your own best practices with peers from other companies?  Why not take it the step further, and share your ideas, texts even the "code" behind.
