@@ -1,5 +1,5 @@
 ---
-title: Hexatown -A living Community
+title: Working with PowerApps & Microsoft Flow !?
 ---
 
 ## Have you ever wanted to control the world? 
@@ -7,21 +7,18 @@ title: Hexatown -A living Community
 <img align="right" src="./img/www-egger-bahn.de-images-history-03-oldphoto.jpg" title="Photo © 2001 - 2017 by Textwerkstatt Ralph Stenzel. http://www.egger-bahn.de" />
 
 ## Found it kind of hard to achieve the goal?
-Even in just a slightly larger scale than here, like your companies suite of collaboration tools? Why not share your own best practices with peers from other companies? 
+Even in just a slightly larger scale than here, like your companies suite of collaboration tools? Why not share your own best practices with peers from other companies?  Why not take it the step further, and share your ideas, texts even the "code" behind.
 
-## Join the Community
-If you are working with the technical part of administrating Office365 and Azure, and if you are working in the financial sector in Denmark your are qualified to [join](join)
-
-## Assist in building a shared repository
+## Learn to use PowerApps, Flow and Logic Apps
 We are working within areas as
 
 - Process Documentation
 - Test cases
 - Automation scripts
 
-[Explore GitHub](https://www.github.com/hexatown)
+Head over to [GitHub](https://www.github.com/hexatown) and start exploring and sharing.
 
-<!---->
+<!--
  <div class="posts">
    {% for post in site.posts %}
      <article class="post">
@@ -37,3 +34,5 @@ We are working within areas as
    {% endfor %}
  </div>
  <div>
+ 
+ -->
