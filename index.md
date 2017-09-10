@@ -5,7 +5,7 @@ title: PowerApps & Microsoft Flow
 ## Have you ever wanted to control the world? 
 >or just Office365, Azure and other 
 
-<img align="right" src="./img/tiles/hexaheads.png" title="A collection of HexaHeads" />
+<img align="right" style="height:150px;width:auto" src="./img/tiles/hexaheads.png" title="A collection of HexaHeads" />
 
 ## Found it kind of hard to achieve the goal?
 Even in just a slightly larger scale than here, like your companies suite of collaboration tools? Why not share your own best practices with peers from other companies?  Why not take it the step further, and share your ideas, texts even the "code" behind.
