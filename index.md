@@ -3,12 +3,13 @@ title: PowerApps & Microsoft Flow
 ---
 
 ## Have you ever wanted to control the world? 
->or just Office365, Azure and other 
-
-<img align="right" style="height:150px;width:auto" src="./img/tiles/hexaheads.png" title="A collection of HexaHeads" />
+or just Office365, Azure and other online services.
 
 ## Found it kind of hard to achieve the goal?
 Even in just a slightly larger scale than here, like your companies suite of collaboration tools? Why not share your own best practices with peers from other companies?  Why not take it the step further, and share your ideas, texts even the "code" behind.
+
+## Neeed to be a nerd?? Nope, a Hexahead will do!
+<img  style="height:150px;width:auto" src="./img/tiles/hexaheads.png" title="A collection of HexaHeads" />
 
 ## Learn to use PowerApps, Flow and Logic Apps
 We are working within areas as
