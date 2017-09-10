@@ -1,8 +1,9 @@
 ---
-title: Working with PowerApps & Microsoft Flow !?
+title: PowerApps & Microsoft Flow
 ---
 
 ## Have you ever wanted to control the world? 
+>or just Office365, Azure and other 
 
 <img align="right" src="./img/tiles/hexaheads.png" title="A collection of HexaHeads" />
 
