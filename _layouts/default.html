@@ -129,14 +129,14 @@
         window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')
 
         var lock = new Auth0Lock('LialPAksUWmKcrxybkClhJpkOWugXHWO', '365admin.eu.auth0.com');
-
+/*
         var btn_login = document.getElementById('login');
 
         btn_login.addEventListener('click', function() {
             mixpanel.track("Login");
             lock.show();
         });
-
+*/
         lock.on("authenticated", function(authResult) {
             //debugger
             lock.getProfile(authResult.idToken, function(error, profile) {
