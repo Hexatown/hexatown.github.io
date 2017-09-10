@@ -107,9 +107,9 @@
                 <h3>Greeting from the Mayor</h3>
                 <p>Hey, I'm Mayor in Hexatown. The town where Hexaheads meet, build and play around. We do not use model trains, but online services. </p>
                 <p>I you are interested, then call me using the Intercom. <img style="padding:10px;height:128px;width:auto" align="right" src="./img/hexaheads/mayor-with-hat.png">. </p>
-                
+                <div id="feed"></div>    
             </aside>
-
+            
         </div>
         <!-- #main -->
     </div>
@@ -216,6 +216,30 @@
                 }
             }
         })()
+        
+        $(document).ready(function () {
+    $.ajax({
+        url: 'https://blog.hexatown.com/feed/',
+        type: 'GET',
+        dataType: "xml"
+    }).done(function(xml) {
+
+        $.each($("item", xml), function(i, e) {
+
+            var blogNumber = i + 1 + ". ";
+
+            var itemURL = ($(e).find("link"));
+            var blogURL = "<a href='" + itemURL.text() + "'>" + itemURL.text() +"</a>";
+
+            var itemTitle = ($(e).find("title"));
+            var blogTitle = "<h4>" + blogNumber + itemTitle.text() + "</h4>";
+
+            $("#feed").append(blogTitle);
+            $("#feed").append(blogURL);
+
+        });
+    });
+})
     </script>
 </body>
 
