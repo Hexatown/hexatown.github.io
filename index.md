@@ -9,7 +9,7 @@ or just Office365, Azure and other online services.
 Even in just a slightly larger scale than here, like your companies suite of collaboration tools? Why not share your own best practices with peers from other companies?  Why not take it the step further, and share your ideas, texts even the "code" behind.
 
 # Need to be a nerd?? Nope, a Hexahead will do!
-<img align="right"  style="height:auto;width:auto" src="./img/tiles/hexaheads.png" title="A collection of HexaHeads" />
+<img align="right"  style="height:auto;width:100%" src="./img/tiles/hexaheads.png" title="A collection of HexaHeads" />
 
 ## Learn to use PowerApps, Flow and Logic Apps
 We are working within areas as
