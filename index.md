@@ -2,7 +2,7 @@
 title: Have you ever wanted to control the world? 
 ---
 
->or just Office365, Azure and other online services.
+... or just Office365, Azure and other online services.
 
 ## Found it kind of hard to achieve the goal?
 Even in just a slightly larger scale than here, like your companies suite of collaboration tools? Why not share your own best practices with peers from other companies?  Why not take it the step further, and share your ideas, texts even the "code" behind.
