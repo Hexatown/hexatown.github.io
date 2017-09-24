@@ -10,8 +10,8 @@ Even in just a slightly larger scale than here, like your companies suite of col
 # Need to be a nerd?? Nope, a Hexahead will do!
 <img align="right"  style="height:auto;width:100%" src="./img/tiles/hexaheads.png" title="A collection of HexaHeads" />
 
-## Learn how Azure Functions, PowerApps, Flow and Logic Apps can help you
-We are working within areas as
+## Let's join force in at least Governing the cloud
+We share 
 
 - Process Documentation
 - Test cases
