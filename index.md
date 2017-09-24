@@ -1,22 +1,20 @@
 ---
-title: Working with PowerApps & Microsoft Flow !?
+title: Have you ever wanted to control the world? 
 ---
 
-## Have you ever wanted to control the world? 
-
-<img align="right" src="./img/tiles/hexaheads.png" title="A collection of HexaHeads" />
+... or just Office365, Azure and other online services.
 
 ## Found it kind of hard to achieve the goal?
 Even in just a slightly larger scale than here, like your companies suite of collaboration tools? Why not share your own best practices with peers from other companies?  Why not take it the step further, and share your ideas, texts even the "code" behind.
 
-## Learn to use PowerApps, Flow and Logic Apps
-We are working within areas as
+## Let's join force in at least Governing the cloud
+We share 
 
 - Process Documentation
 - Test cases
 - Automation scripts
 
-Head over to [GitHub](https://www.github.com/hexatown) and start exploring and sharing.
+Start chatting with the Mayor, and you are closer to succeed with your quest. Join the  [LinkedIn group](https://www.linkedin.com/groups/13551971) or explorer the [document repository](http://hexatown.com/docs)
 
 <!--
  <div class="posts">
