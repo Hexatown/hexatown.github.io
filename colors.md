@@ -10,6 +10,6 @@ The following colors are represented in the icon
 
 ![](./img/hexatown-logo-64h-png)
 
-
+.
 
 background - #577284 Bluestone https://www.pantone.com/color-finder/18-4217-TCX
