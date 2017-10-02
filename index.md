@@ -1,5 +1,6 @@
 ---
 title: Have you ever wanted to control the world? 
+layout: home
 ---
 
 ... or just Office365, Azure and other online services.
