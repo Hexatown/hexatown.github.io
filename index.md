@@ -9,12 +9,16 @@ layout: home
 Even in just a slightly larger scale than here, like your companies suite of collaboration tools? Why not share your own best practices with peers from other companies?  Why not take it the step further, and share your ideas, texts even the "code" behind.
 
 ## Let's join force in at least Governing the cloud
+
 ### Open Source 
 Visit ["docs"](http://hexatown.com/docs) where we share 
 
 - Process Documentation
 - Test cases
 - Automation scripts
+
+### Blog
+Check out the ["blog"](https://blog.hexatown.com)
 
 ### Link In 
 
