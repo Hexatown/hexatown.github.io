@@ -13,14 +13,12 @@ hexatown.com is the city in which Hexaheads live. Hexaheads are not square heads
 In **hexatown** we aim to collect the information necessary to come closer to our goal - "Controlling our world"
 Even in just a slightly larger scale than here, like your companies suite of collaboration tools? Why not share your own best practices with peers from other companies?  Why not take it the step further, and share your ideas, texts even the "code" behind.
 
-## Let's join forces in at least Governing the cloud
-
-
+## Resources 
 
 ### Open Source 
 Visit [hexatown//docs](http://hexatown.com/docs) where we share 
 
-- Process Documentationd
+- Process Documentation
 - Test cases
 - Automation scripts
 
@@ -29,7 +27,11 @@ Check out the [hexatown//blog](https://blog.hexatown.com)
 
 ### Link In 
 
-Join the  [LinkedIn group](https://www.linkedin.com/groups/13551971) )
+Join the  [LinkedIn group](https://www.linkedin.com/groups/13551971) 
+
+### Communities
+
+- [Financial Sector in Denmark](./community/dk-financial-service-sector)
 
 <!--
  <div class="posts">
