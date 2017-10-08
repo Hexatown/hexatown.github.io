@@ -6,7 +6,11 @@ layout: home
 hexatown.com is the city in which Hexaheads live. Hexaheads are not square heads, but a species with a digital approach to things. We hexaheads like to have control over what we do, but in this world of constant changes, all our existing methods is challenged.
 
 
-<button style="padding:10px;background-color:#E8683D;border:none;color:#ffffff" onclick="alert('Sorry, not there yet')">Make me compliant</button>
+<button style="font-size:200%;padding:10px;background-color:#E8683D;border:none;color:#ffffff;margin:10px;" onclick="alert('Sorry, not there yet')">Make me compliant</button>
+
+<button style="font-size:200%;padding:10px;background-color:#E8683D;border:none;color:#ffffff;margin:10px;" onclick="alert('Sorry, not there yet')">Show me the blueprint</button>
+
+<button style="font-size:200%;padding:10px;background-color:#E8683D;border:none;color:#ffffff;margin:10px;" onclick="alert('Sorry, not there yet')">What's in it for me</button>
 
 ## Do you find is hard to keep up with the pace?
 
