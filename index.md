@@ -11,7 +11,7 @@ hexatown.com is the city in which Hexaheads live. Hexaheads are not square heads
 <button style="font-size:130%;width:30%;float:left;padding:10px;background-color:#E8683D;border:none;color:#ffffff;margin:10px;" onclick="alert('Sorry, not there yet')">Show me the blueprint</button>
 
 <button style="font-size:130%;width:30%;float:left;padding:10px;background-color:#E8683D;border:none;color:#ffffff;margin:10px;" onclick="alert('Sorry, not there yet')">What's in it for me</button>
-
+<div style="clear:both">&nbsp;</div>
 ## Do you find is hard to keep up with the pace?
 
 In **hexatown** we aim to collect the information necessary to come closer to our goal - "Controlling our world"
