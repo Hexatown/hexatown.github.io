@@ -22,8 +22,8 @@ In **hexatown** we work on a restricted scope - "Our world" of cloud technology.
 
 While waiting for Nirvana, why not visit some of the resources starting to shape up?
 
-<button style="font-size:130%;width:30%;float:left;padding:10px;background-color:#E8683D;border:none;color:#ffffff;margin:10px;" onclick="window.location.href='/docs/microsoft/office365')">Offic365 Periodic Table</button>
-<button style="font-size:130%;width:30%;float:left;padding:10px;background-color:#E8683D;border:none;color:#ffffff;margin:10px;" onclick="window.location.href='https://blog.hexatown.com')">Blog</button>
+<button style="font-size:130%;width:30%;float:left;padding:10px;background-color:#E8683D;border:none;color:#ffffff;margin:10px;" onclick="window.location.href='/docs/microsoft/office365'">Offic365 Periodic Table</button>
+<button style="font-size:130%;width:30%;float:left;padding:10px;background-color:#E8683D;border:none;color:#ffffff;margin:10px;" onclick="window.location.href='https://blog.hexatown.com'">Blog</button>
 <div style="clear:both">&nbsp;</div>
 
 ### Open Source 
