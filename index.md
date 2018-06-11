@@ -1,7 +1,9 @@
 ---
-title: Have you ever wanted to control the world? 
+title: Have you ever wanted to understand the world? 
 layout: home
 ---
+
+Hexatown is a fantasy city
 
 **hexatown** is where Hexaheads meet. Hexaheads are not square heads, but a species with a digital approach to things. We hexaheads like to have control over what we do, but in this world of constant changes, all our existing methods is challenged.
 
