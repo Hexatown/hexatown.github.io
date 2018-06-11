@@ -23,6 +23,7 @@ Visit [hexatown//docs](http://hexatown.com/docs) where we share
 - Test cases
 - Automation scripts
 
-## Blog
-Check out the [jumpto365.com](https://jumpto365.com)
+## Periodic Table of Office 365
+
+Jumpto365 is being source by content originating from Hexatown, check out the cool app at [jumpto365.com](https://jumpto365.com)
 
